@@ -12,6 +12,8 @@ public class Liste {
         myList.add("Andreas");
         myList.add("Mah");
         myList.add("Håkon");
+        myList.add("Jack");
+        myList.add("Kristian");
 
 
         System.out.println("Beste venner:");
