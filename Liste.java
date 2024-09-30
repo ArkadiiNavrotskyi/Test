@@ -9,9 +9,9 @@ public class Liste {
         List<String> myList = new ArrayList<>();
 
 
-        myList.add("Apple");
-        myList.add("Banana");
-        myList.add("Cherry");
+        myList.add("Andreas");
+        myList.add("Mah");
+        myList.add("Håkon");
 
 
         System.out.println("Liste:");
@@ -23,7 +23,7 @@ public class Liste {
         System.out.println("Size: " + myList.size());
 
 
-        myList.remove("Banana");
+        myList.remove("Andreas");
 
 
         System.out.println("Liste etter :");
