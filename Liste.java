@@ -14,19 +14,19 @@ public class Liste {
         myList.add("Håkon");
 
 
-        System.out.println("Liste:");
+        System.out.println("Beste venner:");
         for (String item : myList) {
             System.out.println(item);
         }
 
 
-        System.out.println("Size: " + myList.size());
+        System.out.println("BVE: " + myList.size());
 
 
         myList.remove("Andreas");
 
 
-        System.out.println("Liste etter :");
+        System.out.println("Bedre liste:");
         for (String item : myList) {
             System.out.println(item);
         }
